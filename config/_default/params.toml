@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mykhaylo@andrews.edu"
-phone = "530 840 62 45"
+phone = "(530) 840-6245"
 address = "Haughey Hall, Andrews University, Michigan 49104"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours

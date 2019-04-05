@@ -37,11 +37,6 @@ user_groups = []
   course = "B.S. in Mathematics"
   institution = "Andrews University"
   year = 2020
-  
-[[education.courses]]
-  course = "Study Abroad"
-  institution = "Budapest Semesters in Mathematics"
-  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

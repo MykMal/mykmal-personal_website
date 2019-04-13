@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Undergraduate Student"
+role = "Undergraduate Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -37,9 +37,6 @@ user_groups = []
   course = "B.S. in Mathematics"
   institution = "Andrews University"
   year = 2020
-  course = "Study Abroad"
-  institution = "Budapest Semesters in Mathematics"
-  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,7 +61,7 @@ user_groups = []
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/mykmal"
+  link = "https://www.linkedin.com/in/mykmal/"
 
 [[social]]
   icon = "github"

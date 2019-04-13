@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "University of California, Los Angeles"
   date_start = "2019-06-01"
   date_end = "2019-08-01"
-  description = "something"
+  description = """
+  """
 
 [[experience]]
   title = "REU Participant"
@@ -35,9 +36,8 @@ date_format = "Jan 2006"
   date_end = "2018-08-01"
   description = """
   Advisors: [Julie C. Blackwood](https://sites.williams.edu/jcb5/) and [Katriona Shea](https://kshealab.wordpress.com/)
-  
   Projects:
-  * Spatial dynamics of white-nose syndrome in bats and their management implications
+  * Spatial dynamics of white-nose syndrome in bats and their implications for management
   * Ecosystem federalism as applied to infectious disease management
   """
   
@@ -50,7 +50,6 @@ date_format = "Jan 2006"
   date_end = "2017-08-01"
   description = """
   Advisors: [Shandelle M. Henson](https://www.andrews.edu/~henson/) and [J. M. Cushing](https://www.math.arizona.edu/~cushing/)
-
   Project:
   * Egg cannibalism and reproductive synchrony in gulls
   """

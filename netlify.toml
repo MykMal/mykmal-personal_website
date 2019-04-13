@@ -8,3 +8,10 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
+# Redirect default Netlify subdomain to primary domain
+[[redirects]]
+  from = "https://determined-hermann-b8609f.netlify.com/*"
+  to = "https://mykmal.xyz/:splat"
+  status = 301
+  force = true

@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company = "Williams College SMALL REU"
   company_url = "https://math.williams.edu/small/"
   location = "Williams College"
-  date_start = "2018-06-01"
-  date_end = "2018-08-01"
+  date_start = "2018-06"
+  date_end = "2018-08"
   description = """
   Advisors: [Julie C. Blackwood](https://sites.williams.edu/jcb5/) and [Katriona Shea](https://kshealab.wordpress.com/)
   Projects:
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "Seabird Ecology Team"
   company_url = "https://www.andrews.edu/~henson/seabird/"
   location = "Andrews University"
-  date_start = "2017-06-01"
-  date_end = "2017-08-01"
+  date_start = "2017-06"
+  date_end = "2017-08"
   description = """
   Advisors: [Shandelle M. Henson](https://www.andrews.edu/~henson/) and [J. M. Cushing](https://www.math.arizona.edu/~cushing/)
   Project:

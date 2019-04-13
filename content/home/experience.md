@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Research Intern"
+  company = "Research in Industrial Projects for Students, Institute for Pure and Applied Mathematics"
+  company_url = "http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/"
+  location = "University of California, Los Angeles"
+  date_start = "2019-06-01"
+  date_end = "2019-08-01"
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "REU Participant"
+  company = "Williams College SMALL REU"
+  company_url = "https://math.williams.edu/small/"
+  location = "Williams College"
+  date_start = "2018-06-01"
+  date_end = "2018-08-01"
+  description = """
+  Advisors: [Julie C. Blackwood](https://sites.williams.edu/jcb5/) and [Katriona Shea](https://kshealab.wordpress.com/)
+  
+  Projects:
+  * Spatial dynamics of white-nose syndrome in bats and their management implications
+  * Ecosystem federalism as applied to infectious disease management
+  """
+  
+[[experience]]
+  title = "REU Participant"
+  company = "Seabird Ecology Team"
+  company_url = "https://www.andrews.edu/~henson/seabird/"
+  location = "Andrews University"
+  date_start = "2017-06-01"
+  date_end = "2017-08-01"
+  description = """
+  Advisors: [Shandelle M. Henson](https://www.andrews.edu/~henson/) and [J. M. Cushing](https://www.math.arizona.edu/~cushing/)
+
+  Project:
+  * Egg cannibalism and reproductive synchrony in gulls
+  """
 
 +++

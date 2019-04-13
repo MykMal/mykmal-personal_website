@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Undergraduate Research Fellow"
+role = "Undergraduate Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -34,9 +34,14 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "B.S. in Mathematics"
+  course = "B.S. in Mathematics (Honors)"
   institution = "Andrews University"
   year = 2020
+  
+[[education.courses]]
+  course = "Study Abroad"
+  institution = "Budapest Semesters in Mathematics"
+  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,7 +66,7 @@ user_groups = []
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/mykmal/"
+  link = "https://www.linkedin.com/in/mykmal"
 
 [[social]]
   icon = "github"
@@ -73,7 +78,7 @@ user_groups = []
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/Mykhaylo_Malakhov_CV-Mar_2019.pdf"
+   link = "files/Mykhaylo_Malakhov_CV-May_2019.pdf"
 
 +++
 

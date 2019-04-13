@@ -55,7 +55,7 @@ phone = "(530) 840-6245"
 address = "Haughey Hall, Andrews University, Michigan 49104"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """By Appointment"""
+office_hours = "By Appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

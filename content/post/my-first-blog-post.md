@@ -3,7 +3,6 @@ title = "My First Blog Post"
 date = 2016-11-24
 authors = ["admin"]
 tags = []
-comments = true
 +++
 
 I cannot recall how long ago I first decided to start a blog. It was certainly before I became a teenager, probably long before then. My dad is a software engineer, so I grew up in a fairly tech-fluent home and concepts like blogging were not at all foreign to my young self. However, the concept of having enough time to do everything you want to certainly was. It would be impossible for me to count the number of times I told myself that I should start a blog soon. Yet whenever I made such resolutions, time was always scarce. When I did have enough time, I chose to do other things instead.

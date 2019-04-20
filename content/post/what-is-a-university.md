@@ -3,7 +3,6 @@ title = "What is a University?"
 date = 2017-03-19
 authors = ["admin"]
 tags = ["Andrews University", "religion", "science"]
-comments = true
 +++
 
 ​Last semester I had the privilege of attending the 11th Annual Andrews Autumn Conference on Religion and Science on the campus of Andrews University in Berrien Springs, Michigan. It was a very intellectually stimulating experience, and I greatly enjoyed participating in deep theological and scientific discussions with other scholars who are also dedicated to the pursuit of truth. The conference was titled "Beyond the Creation Wars," and the presentations revolved around the question of origins in the context of the wider question of how Christian love should relate to truth. Should truth or love take precedence? How should we relate to Christians who believe differently than we do? What are the positions in the debate over creation and evolution, and does it even matter?

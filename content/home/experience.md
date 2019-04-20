@@ -35,12 +35,13 @@ date_format = "Jan 2006"
   date_end = "2018-08-01"
   description = """
   Advisors: [Julie C. Blackwood](https://sites.williams.edu/jcb5/) and [Katriona Shea](https://kshealab.wordpress.com/)
-  
+
   Projects:
-  * Spatial dynamics of white-nose syndrome in bats and their management implications
-  * Ecosystem federalism as applied to infectious disease management
+
+  * Spatial dynamics of white-nose syndrome in bats
+  * Infectious disease management through ecosystem federalism
   """
-  
+
 [[experience]]
   title = "REU Participant"
   company = "Seabird Ecology Team"
@@ -52,6 +53,7 @@ date_format = "Jan 2006"
   Advisors: [Shandelle M. Henson](https://www.andrews.edu/~henson/) and [J. M. Cushing](https://www.math.arizona.edu/~cushing/)
 
   Project:
+  
   * Egg cannibalism and reproductive synchrony in gulls
   """
 

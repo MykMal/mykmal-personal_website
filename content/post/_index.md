@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Blog"
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ view = 2
 image = "Blog_Header.JPG"
 caption = ""
 +++
+
+This blog is a chronological collection of seemingly random musings from the depths of a highly introspective brain.

@@ -1,9 +1,6 @@
 +++
 title = "My First Blog Post"
-
 date = 2016-11-24
-summary = "Hello World!"
-
 authors = ["admin"]
 tags = []
 +++

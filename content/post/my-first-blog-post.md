@@ -1,6 +1,7 @@
 +++
 title = "My First Blog Post"
 date = 2016-11-24
+lastmod = 2016-11-24
 authors = ["admin"]
 tags = []
 +++

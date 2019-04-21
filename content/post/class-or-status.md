@@ -1,6 +1,7 @@
 +++
-title = "Class or Status: A Comparison of Agency in _The Ramayana_ and the Bible"
+title = "Class or Status: A Comparison of Agency in The Ramayana and the Bible"
 date = 2018-04-21
+lastmod = 2018-04-21
 authors = ["admin"]
 tags = ["Andrews University", "college essays", "literature", "religion"]
 +++

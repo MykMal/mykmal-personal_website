@@ -99,14 +99,14 @@ _5/3/2018 03:00:57 pm_
 >
 >Since you were brave enough to post it online, here are some counter-thoughts I had while reading.
 
->___
+>---
 >First, can I just say that I love the whole genre of writing that WH papers usually fall into? It's the slam-shock of a young human mind hitting up against two timeless challenges: **pluralism** and **skepticism.** Pluralism teaches us that there are a zillion world views out there, and that most people believe whatever they were raised to believe (and, thus, where does that leave me? what are the chances that I just happened to be born into the correct sect?). Skepticism shows us that answering the question "how do we know anything?" is way more difficult than we tend to think.
 >
 >I used to think that these were quintessentially modern (or postmodern) challenges, but I've learned there is nothing **remotely** modern about these things. There are beautiful passages in Epictetus and Al-Ghazali that hit the pluralism problem right on the nail ages before Descartes or the postmoderns, and Greek and Indian skeptics were blowing the infinite regress problem in knowledge (including mathematical knowledge!) out of the water centuries before Christ.
 >
 >Point being, while it makes total sense that the contemporary philosophy of mathematics was an influencer for you--IMO the ancient Greek skeptics could have led you here just as efficiently as Gödel did!
 >
->___
+>---
 >I resonate strongly with a few of your points--and in particular the idea that "there is no other universe except the human universe."
 >
 >For me, the whole question of what is "really real" has lost almost all meaning. All we know--all we ever directly experience--comes from our senses and feelings. The existentialists said it, the empiricists said it, Kant said it, the ancient Greeks said it, and it seems self-evident to me. Everything beyond our subjective experience is just a causal model that we built to explain our subjective impressions, and we know from quantum mechanics that our intuitive grasp of "external" reality is certainly almost completely wrong.

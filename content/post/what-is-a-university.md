@@ -22,25 +22,25 @@ To be honest, I think that we as academics should be ashamed of the system we ha
 
 Correction (4/12/2017): The original post inaccurately described Darrel Falk as a proponent of theistic evolution.
 
-[1] http://colossianforum.org/about-us/mission-vision-our-story/
-[2] https://en.wikipedia.org/wiki/University
+[1] http://colossianforum.org/about-us/mission-vision-our-story/  
+[2] https://en.wikipedia.org/wiki/University  
 [3] https://en.wikipedia.org/wiki/Authentica_habita
 
 ---
 
 This post was migrated from my previous site, so I decided to include all old comments below:
 
-**Darrel Falk**
+**Darrel Falk**  
 _4/12/2017 01:20:20 pm_
 
->Dear Mykhaylo,
->Thanks very much for this fine article. I was pleased and honored to be an invited guest on your campus and am delighted that you considered the session helpful. I would add one thing, however. I respect the fact that Andrews University is an institution of the Seventh Day Adventist Church, which means that it serves a community of individuals who understand Scripture in a particular way. I have tremendous respect for the Adventists that I know and it is important that the central distinctives be maintained. The university's leaders walk a very fine line between faithfulness to the central distinctions of the community and the spirit of open inquiry that you describe so articulately. What I personally hope is that as a Christ-centered university, that the open inquiry of which you speak will be framed within a framework that enables the SDA community to continue to retain the wonderful distinctives that have enabled it to serve God and the world so effectively. Remember, that most of the major private secular universities in America are former Christian universities, which in the interest of openness, let go of their Christian distinctiveness
+>Dear Mykhaylo,  
+>Thanks very much for this fine article. I was pleased and honored to be an invited guest on your campus and am delighted that you considered the session helpful. I would add one thing, however. I respect the fact that Andrews University is an institution of the Seventh Day Adventist Church, which means that it serves a community of individuals who understand Scripture in a particular way. I have tremendous respect for the Adventists that I know and it is important that the central distinctives be maintained. The university's leaders walk a very fine line between faithfulness to the central distinctions of the community and the spirit of open inquiry that you describe so articulately. What I personally hope is that as a Christ-centered university, that the open inquiry of which you speak will be framed within a framework that enables the SDA community to continue to retain the wonderful distinctives that have enabled it to serve God and the world so effectively. Remember, that most of the major private secular universities in America are former Christian universities, which in the interest of openness, let go of their Christian distinctiveness  
 In Christ, Darrel
 
-**Mykhaylo Malakhov**
+**Mykhaylo Malakhov**  
 _4/14/2017 09:50:52 pm_
 
->Dear Dr. Falk,
->Thank you for your thoughtful response. When writing this article I never envisioned that you would read it, but I am very glad you found it insightful. I completely agree with you, and must admit that it would have been beneficial to discuss the balance between promoting open inquiry and maintaining distinctions in the article. Although I specifically mentioned Andrews University in several instances, I wrote the article for the academic community in general. I wanted my claim to resonate with all educational institutions, not only those with a distinctive set of beliefs like Andrews University. I share your hope that Seventh-day Adventist universities and others with a distinctive and unique nature will be able to frame open inquiry within the context of their mission to God and the world. This is certainly a difficult challenge that needs to be explored more deeply, and I really appreciate that you brought it up.
->Blessings,
+>Dear Dr. Falk,  
+>Thank you for your thoughtful response. When writing this article I never envisioned that you would read it, but I am very glad you found it insightful. I completely agree with you, and must admit that it would have been beneficial to discuss the balance between promoting open inquiry and maintaining distinctions in the article. Although I specifically mentioned Andrews University in several instances, I wrote the article for the academic community in general. I wanted my claim to resonate with all educational institutions, not only those with a distinctive set of beliefs like Andrews University. I share your hope that Seventh-day Adventist universities and others with a distinctive and unique nature will be able to frame open inquiry within the context of their mission to God and the world. This is certainly a difficult challenge that needs to be explored more deeply, and I really appreciate that you brought it up.  
+>Blessings,  
 >Mykhaylo Malakhov

@@ -24,8 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Mathematical Ecology",
-  "Infectious Disease Management",
-  "Complex Adaptive Systems"
+  "Infectious Diseases",
+  "Stochastic Processes"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -37,7 +37,7 @@ user_groups = []
   course = "B.S. in Mathematics (Honors)"
   institution = "Andrews University"
   year = 2020
-  
+
 [[education.courses]]
   course = "Study Abroad"
   institution = "Budapest Semesters in Mathematics"
@@ -57,7 +57,7 @@ user_groups = []
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
-  
+
   [[social]]
   icon = "orcid"
   icon_pack = "ai"
@@ -82,6 +82,6 @@ user_groups = []
 
 +++
 
-I am a third-year undergraduate student at Andrews University, majoring in mathematics and minoring in religion. I am the current Vice President of the Andrews University Chapter of Engineers Without Borders and the President of the Michigan Gamma Chapter of Pi Mu Epsilon. I am also a J. N. Andrews Honors Scholar and a Barry M. Goldwater Scholar. My research interests span pure and applied mathematics, but so far I have mostly focused on mathematical ecology. In my free time (when I happen to find some!) I enjoy reading, the outdoors, programming, and photography.
+I am a rising fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span applied mathematics and statistics, but so far I have mostly focused on mathematical ecology. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering, and lead out in my university's Pi Mu Epsilon Chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, and nature photography.
 
 Such superficial statements, however, fail to do justice to the complex person that I am. I like to summarize myself by saying that I am just another unique individual, striving to explore and contribute to the rich tapestry of our universe.

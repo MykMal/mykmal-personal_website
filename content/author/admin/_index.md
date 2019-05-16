@@ -82,6 +82,6 @@ user_groups = []
 
 +++
 
-I am a rising fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span applied mathematics and statistics, but so far I have mostly focused on mathematical ecology. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering, and lead out in my university's Pi Mu Epsilon Chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, and nature photography.
+I am a rising fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span applied mathematics and statistics, but so far I have mostly focused on mathematical ecology. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering and lead out in my university's Pi Mu Epsilon chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, playing video games, and photographing natural wonders.
 
 Such superficial statements, however, fail to do justice to the complex person that I am. I like to summarize myself by saying that I am just another unique individual, striving to explore and contribute to the rich tapestry of our universe.

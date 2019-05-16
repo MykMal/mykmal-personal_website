@@ -3,7 +3,7 @@ title = "I Don't Care: Existential Sovereignty as a Foundation for Fluid Christi
 date = 2018-04-28
 lastmod = 2018-04-28
 authors = ["admin"]
-tags = ["Andrews University", "college essays", "literature", "religion", "mathematics", "science"]
+tags = ["Andrews University", "college essays", "history", "literature", "mathematics", "religion", "science"]
 +++
 
 My original intent was to post my worldview essay in six months or so, once the traumatic experience of writing it fades into the dimmer recesses of my memory. However, the people have spoken, and due to popular demand I am taking the risk of posting the essay now.

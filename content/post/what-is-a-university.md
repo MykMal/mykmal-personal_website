@@ -22,7 +22,7 @@ To be honest, I think that we as academics should be ashamed of the system we ha
 
 Correction (4/12/2017): The original post inaccurately described Darrel Falk as a proponent of theistic evolution.
 
-[1] http://colossianforum.org/about-us/mission-vision-our-story/  
+[1] http://colossianforum.org/about-us/mission-vision-our-story  
 [2] https://en.wikipedia.org/wiki/University  
 [3] https://en.wikipedia.org/wiki/Authentica_habita
 

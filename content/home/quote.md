@@ -6,12 +6,12 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 
-title = "Demos" # Make the title empty
-subtitle = "" # Make the subtitle empty
+#title = "" # Make the title empty
+#subtitle = "" # Make the subtitle empty
 
-[design]
+#[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+#  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -31,8 +31,8 @@ subtitle = "" # Make the subtitle empty
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 +++
 
-<h1 style="display:flex;justify-content:center;align-items:center;">"It is impossible to be a mathematician without being a poet in soul." — Sofia Kovalevskaya in <i>Sónya Kovalévsky: Her Recollections of Childhood</i></h1>
+<h1 style="display:flex;justify-content:center;align-items:center">"It is impossible to be a mathematician without being a poet in soul." — Sofia Kovalevskaya in <i>Sónya Kovalévsky: Her Recollections of Childhood</i></h1>

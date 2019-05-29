@@ -36,5 +36,5 @@ weight = 40  # Order that this section will appear.
 +++
 
 <div style="display:flex;justify-content:center;align-items:center;">
-  <div style="font-size:10vw;">"It is impossible to be a mathematician without being a poet in soul." — Sofia Kovalevskaya in <i>Sónya Kovalévsky: Her Recollections of Childhood</i></div>
+  <div style="font-size:2vw;">"It is impossible to be a mathematician without being a poet in soul." — Sofia Kovalevskaya in <i>Sónya Kovalévsky: Her Recollections of Childhood</i></div>
 </div>

@@ -1,7 +1,7 @@
 +++
 title = "I Don't Care: Existential Sovereignty as a Foundation for Fluid Christianity"
-date = 2018-04-28
-lastmod = 2018-04-28
+date = 2018-04-28T00:00:00
+lastmod = 2018-04-28T00:00:00
 authors = ["admin"]
 tags = ["Andrews University", "college essays", "history", "literature", "mathematics", "religion", "science"]
 +++

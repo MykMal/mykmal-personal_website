@@ -1,7 +1,7 @@
 +++
 title = "What is a University?"
-date = 2017-03-19
-lastmod = 2017-04-12
+date = 2017-03-19T00:00:00
+lastmod = 2017-04-12T00:00:00
 authors = ["admin"]
 tags = ["Andrews University", "religion", "science"]
 +++

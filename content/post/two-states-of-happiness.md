@@ -1,7 +1,7 @@
 +++
 title = "The Two States of Happiness: A Practical Analysis of Virtue Systems"
-date = 2018-09-02
-lastmod = 2018-09-02
+date = 2018-09-02T00:00:00
+lastmod = 2018-09-02T00:00:00
 authors = ["admin"]
 tags = ["Andrews University", "college essays", "religion"]
 +++

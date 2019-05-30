@@ -3,10 +3,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
-title = ""It is impossible to be a mathematician without being a poet in soul.""
-subtitle = "--- Sofia Kovalevskaya in _Sónya Kovalévsky: Her Recollections of Childhood_"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -37,3 +37,6 @@ subtitle = "--- Sofia Kovalevskaya in _Sónya Kovalévsky: Her Recollections of 
   padding = ["20px", "0", "20px", "0"]
 
 +++
+
+### "It is impossible to be a mathematician without being a poet in soul."  
+### --- Sofia Kovalevskaya in _Sónya Kovalévsky: Her Recollections of Childhood_

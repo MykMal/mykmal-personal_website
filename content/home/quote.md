@@ -1,17 +1,9 @@
 +++
 
-widget = "blank"
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
-
-
-#title = "" # Make the title empty
-#subtitle = "" # Make the subtitle empty
-
-#[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-#  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -33,8 +25,11 @@ weight = 40  # Order that this section will appear.
   # Text color (true=light or false=dark).
   text_color_light = false
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 +++
 
-<div style="display:flex;justify-content:center;align-items:center;">
-  <div style="font-size:2vw;">"It is impossible to be a mathematician without being a poet in soul." — Sofia Kovalevskaya in <i>Sónya Kovalévsky: Her Recollections of Childhood</i></div>
-</div>
+"It is impossible to be a mathematician without being a poet in soul."  
+--- Sofia Kovalevskaya in _Sónya Kovalévsky: Her Recollections of Childhood_

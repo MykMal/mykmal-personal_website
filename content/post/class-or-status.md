@@ -32,6 +32,6 @@ As we have seen, the basic concept of agency in _The Ramayana_ and the Bible is 
 
 ### Works Cited
 
-* Duiker, William J., and Jackson J. Spielvogel. _The Essential World History_. 8th ed., Cengage Learning, 2017.
-* Menon, Ramesh. _The Ramayana_. North Point Press, 2004.
-* _The Andrews Study Bible_. New King James Version, General editor, Jon L. Dybdahl, Andrews UP, 2010.
+1. Duiker, William J., and Jackson J. Spielvogel. _The Essential World History_. 8th ed., Cengage Learning, 2017.
+2. Menon, Ramesh. _The Ramayana_. North Point Press, 2004.
+3. _The Andrews Study Bible_. New King James Version, General editor, Jon L. Dybdahl, Andrews UP, 2010.

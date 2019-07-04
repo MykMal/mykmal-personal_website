@@ -39,4 +39,4 @@ subtitle = ""
 +++
 
 ### "It is impossible to be a mathematician without being a poet in soul."  
-### --- Sofia Kovalevskaya in _Sónya Kovalévsky: Her Recollections of Childhood_
+### --- Sofia Kovalevskaya

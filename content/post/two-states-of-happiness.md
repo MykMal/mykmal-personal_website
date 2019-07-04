@@ -8,7 +8,7 @@ tags = ["Andrews University", "college essays", "religion"]
 
 As the first week of my junior year of college comes to a close, I could not resist the temptation to procrastinate on abstract algebra homework in order to dig up fond (and often cringeworthy) memories of my first semester in college. Hence, I am posting another essay for your enjoyment.
 
-This is the third installment of my current blog series where I share essays that I wrote for various classes, this time featuring the second essay that I wrote in college. Like all of the essays I have posted so far, I wrote this one for Honors Western Heritage--a required year-long class for freshmen in the J. N. Andrews Honors Program.
+This is the third installment of my current blog series where I share essays that I wrote for various classes, this time featuring the second essay that I wrote in college. Like all of the essays I have posted so far, I wrote this one for Honors Western Heritage---a required year-long class for freshmen in the J. N. Andrews Honors Program.
 
 As always, I welcome your thoughts in the comments. Enjoy!
 

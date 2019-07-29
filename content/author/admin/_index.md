@@ -53,15 +53,27 @@ user_groups = []
   icon_pack = "fas"
   link = "mailto:mykhaylo@andrews.edu"  # For a direct email link, use "mailto:test@example.org".
 
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/Mykhaylo_Malakhov_CV-July_2019.pdf"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-6856-3913"
+
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
 
-  [[social]]
-  icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0002-6856-3913"
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/MykMal"
 
 [[social]]
   icon = "linkedin"
@@ -69,16 +81,14 @@ user_groups = []
   link = "https://www.linkedin.com/in/mykmal"
 
 [[social]]
-  icon = "github"
+  icon = "facebook"
   icon_pack = "fab"
-  link = "https://github.com/MykMal"
+  link = "https://www.facebook.com/mykhaylo.malakhov"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/Mykhaylo_Malakhov_CV-July_2019.pdf"
+[[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/myk_mal"
 
 +++
 

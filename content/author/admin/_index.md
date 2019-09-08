@@ -58,7 +58,7 @@ user_groups = []
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/Mykhaylo_Malakhov_CV-July_2019.pdf"
+  link = "files/Mykhaylo_Malakhov_CV-Sept_2019.pdf"
 
 [[social]]
   icon = "orcid"
@@ -92,6 +92,6 @@ user_groups = []
 
 +++
 
-I am a rising fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span applied mathematics and statistics, but so far I have mostly focused on dynamical systems in ecology. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering and lead out in my university's Pi Mu Epsilon chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, playing video games, and gardening.
+I am a fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span the intersection of mathematics, ecology, and data science. In particular, I focus on characterization and management of complex systems such as chemical reaction networks, emerging infectious diseases, and climate change. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering and lead out in my university's Pi Mu Epsilon chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, playing video games, and gardening.
 
-I plan to earn a PhD with the goal of pursuing a career in academia. Overall, my dream is to work at the interface of mathematics and the natural sciences while engaging underrepresented groups in research.
+I plan to earn a PhD with the goal of pursuing a career in academia. Overall, my dream is to use mathematical and computational approaches to understand the natural world while engaging underrepresented groups in scientific research.

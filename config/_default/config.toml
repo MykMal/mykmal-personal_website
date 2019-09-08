@@ -13,7 +13,7 @@ baseurl = "https://mykmal.xyz/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "All content (images, text, files, etc.) on this website is Copyright &copy; 2019 Mykhaylo M. Malakhov. All rights reserved."
+copyright = "&copy; 2019 Mykhaylo M. Malakhov. Licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)."
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""

@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The personal website of Mykhaylo M. Malakhov: just another curious person."
+description = "The personal website of Mykhaylo M. Malakhov: a mathematician, ecologist, and data scientist at Andrews University."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "MykMal-profile.jpg"
@@ -37,7 +37,7 @@ math = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -55,7 +55,7 @@ phone = "(530) 840-6245"
 address = "Haughey Hall, Andrews University, Michigan 49104"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "By Appointment"
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -68,6 +68,7 @@ contact_links = [
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+   {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:mykhaylo@andrews.edu"},
   ]
 
 # Display a map.

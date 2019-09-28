@@ -48,17 +48,17 @@ user_groups = []
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:mykhaylo@andrews.edu"  # For a direct email link, use "mailto:test@example.org".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "mailto:mykhaylo@andrews.edu"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "files/Mykhaylo_Malakhov_CV-Sept_2019.pdf"
+#[[social]]
+#  icon = "cv"
+#  icon_pack = "ai"
+#  link = "files/Mykhaylo_Malakhov_CV-Sept_2019.pdf"
 
 [[social]]
   icon = "orcid"
@@ -95,3 +95,5 @@ user_groups = []
 I am a fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span the intersection of mathematics, ecology, and data science. In particular, I synthesize analytical and computational approaches to study complex systems such as emerging infectious diseases, climate change, and chemical reaction networks. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering and lead out in my university's Pi Mu Epsilon chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, playing video games, and gardening.
 
 I plan to earn a PhD with the goal of pursuing a career in academia. Overall, my dream is to employ theoretical approaches to understand the natural world while engaging underrepresented groups in scientific research.
+
+For additional details see my [short résumé](files/Mykhaylo-Malakhov-resume.pdf) or [complete curriculum vita](files/Mykhaylo-Malakhov-cv.pdf).

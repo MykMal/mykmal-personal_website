@@ -1,10 +1,37 @@
-+++
-title = "What is a University?"
-date = 2017-03-19T00:00:00
-lastmod = 2017-04-12T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "religion", "science"]
-+++
+---
+title: "What is a University?"
+subtitle: ""
+summary: ""
+authors:
+- admin
+tags:
+- Andrews University
+- religion
+- science
+categories: []
+date: "2017-03-19T00:00:00"
+lastmod: "2017-04-12T00:00:00"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 ​Last semester I had the privilege of attending the 11th Annual Andrews Autumn Conference on Religion and Science on the campus of Andrews University in Berrien Springs, Michigan. It was a very intellectually stimulating experience, and I greatly enjoyed participating in deep theological and scientific discussions with other scholars who are also dedicated to the pursuit of truth. The conference was titled "Beyond the Creation Wars," and the presentations revolved around the question of origins in the context of the wider question of how Christian love should relate to truth. Should truth or love take precedence? How should we relate to Christians who believe differently than we do? What are the positions in the debate over creation and evolution, and does it even matter?
 
@@ -12,9 +39,9 @@ Three brilliant guest speakers were invited. Michael Gulker, an ordained Mennoni
 
 Although all of the presentations and discussions were highly interesting, my main takeaway from the conference was the atmosphere. Here was a roomful of scholars who hold vastly different views on a very controversial issue, yet they were engaging in intelligent, respectful dialogue, viewing each other as both real scientists and real Christians. To me, this was striking. All too often controversial issues such as origins are either approached through a debate format where each side tries to prove the other wrong or through an ecumenical, let's-forget-our-differences-and-focus-on-Jesus approach. It is either a battle to determine who is right or an utter disregard for truth as if it doesn't matter what we believe as long as we can agree on something. I always found both approaches unsatisfactory. The debate approach leads to anger and division, and both sides leave even more determined to keep fighting for their preconceived opinions. I cannot agree with the ecumenical approach either, because being a scientist myself I cannot say that it does not matter what one believes. Either $2 + 2 = 4$ or it doesn't. Either a theorem is true or it isn't. Either the earth is young or it is old. To set aside all controversial issues, especially ones as fundamental as the question of origins, would be to commit intellectual suicide. In other words, neither one of these approaches leads to any progress. Neither one leads its participants to a fuller and more accurate understanding of the world, and neither one will ever lead to a knowledge of truth. The Andrews Autumn Conference on Religion and Science, however, took an entirely different path. All attendees acknowledged that truth does matter, yet all agreed to seek that truth together in an open-minded approach where we not only respect each other, but sincerely acknowledge that each of us is a legitimate scientist and a sincere Christian. Gulker, Falk, and Wood set the tone, and everyone else followed.
 
-Never before had I experienced something like this, and I was very pleased to see that Andrews University is unafraid to become the leader in this type of dialogue. I started thinking: isn't this what universities were intended to be in the first place? Isn't a university supposed to be an intellectual haven, a safe place where free-thinking people can come together, not to promote their preconceived views, but to pursue truth with the intent of actually finding it? The word "university" comes from the Latin _universitas magistrorum et scholarium_, which means a "community of teachers and scholars." [2] According to this definition, universities should be precisely what the conference was: a community of teachers and scholars who are united by their quest for knowledge and truth. Those teachers and scholars might not have anything else in common except the fact that they are teachers and scholars, i.e., that they are all trying to attain a better understanding of whatever they are studying. They might all disagree, but since they are all moving in the same direction and trying to reach the same goal they will work together as a community. In the charter of the University of Bologna, the first university according to our modern definition of the word, there were statements that guaranteed the right of academics to "travel for the purposes of study" and "immunity from the right of reprisal." [3] In other words, the charter took a major step toward asserting the notion of academic freedom---the right of all academics to be respected and to have the right to teach and study even when their ideas seem stupid or downright wrong to most people.
+Never before had I experienced something like this, and I was very pleased to see that Andrews University is unafraid to become the leader in this type of dialogue. I started thinking: isn't this what universities were intended to be in the first place? Isn't a university supposed to be an intellectual haven, a safe place where free-thinking people can come together, not to promote their preconceived views, but to pursue truth with the intent of actually finding it? The word "university" comes from the Latin *universitas magistrorum et scholarium*, which means a "community of teachers and scholars." [2] According to this definition, universities should be precisely what the conference was: a community of teachers and scholars who are united by their quest for knowledge and truth. Those teachers and scholars might not have anything else in common except the fact that they are teachers and scholars, i.e., that they are all trying to attain a better understanding of whatever they are studying. They might all disagree, but since they are all moving in the same direction and trying to reach the same goal they will work together as a community. In the charter of the University of Bologna, the first university according to our modern definition of the word, there were statements that guaranteed the right of academics to "travel for the purposes of study" and "immunity from the right of reprisal." [3] In other words, the charter took a major step toward asserting the notion of academic freedom---the right of all academics to be respected and to have the right to teach and study even when their ideas seem stupid or downright wrong to most people.
 
-Unfortunately, this is rarely played out in practice today. If we look at the issue of origins, for example, we see that many conservative Christian universities take up the stance of young earth creationism and refuse to even consider the possibility of evolution. On the other hand, secular universities only consider evolution as a valid viewpoint, and refuse to even think of creationist research as real science or of creationist scientists as actual scientists. Both are certainly entitled to their views, but can we really call the institutions in either category _universities_? Throughout the history of science, virtually all of the greatest discoveries were at first ridiculed. Galileo was deemed a heretic. Mendel's ideas were rejected as downright wrong. I could also mention Pasteur, the Wright brothers, Tesla, and countless others. Even Einstein wasn't universally adored. It is very difficult to find great discoveries or inventions that were not met with initial distrust. Many, such as Mendel's, were even dismissed as not really science for hundreds of years.
+Unfortunately, this is rarely played out in practice today. If we look at the issue of origins, for example, we see that many conservative Christian universities take up the stance of young earth creationism and refuse to even consider the possibility of evolution. On the other hand, secular universities only consider evolution as a valid viewpoint, and refuse to even think of creationist research as real science or of creationist scientists as actual scientists. Both are certainly entitled to their views, but can we really call the institutions in either category *universities*? Throughout the history of science, virtually all of the greatest discoveries were at first ridiculed. Galileo was deemed a heretic. Mendel's ideas were rejected as downright wrong. I could also mention Pasteur, the Wright brothers, Tesla, and countless others. Even Einstein wasn't universally adored. It is very difficult to find great discoveries or inventions that were not met with initial distrust. Many, such as Mendel's, were even dismissed as not really science for hundreds of years.
 
 Are we at risk of making that same mistake today? How many universities today meet the criteria for a university? In our age of political correctness, trigger warnings, and violent student protests, how many places can we find that still remain intellectual sanctuaries? Can you name a university where a committed atheist and a devout Christian can both share their views in philosophy class without fear of criticism or name-calling? What universities do you know of where economic research is conducted both from a socialist perspective and a capitalist perspective within the same department? What about universities that have large, active, and respected student organizations representing both the Republican and the Democratic parties? The list could go on and on, but you get the idea. Within any discipline or area of study, there are controversial issues. How do our universities respond to those issues? Is the prevailing response one of mutual respect and a common, open-minded, yet intelligent striving for truth, or one of merely tolerance or, worse yet, hate? I might be wrong, but I think that if every university fully embraced the definition articulated above scientific progress would be far ahead of where it is now. I am not saying that we should fund every crazy idea, but that we should avoid writing off someone or something merely because we disagree. Not only would this advance science, but would also result in universities that are more accessible to all classes of the population and are devoid of elitist accusations. Higher education and research would be even more respected by the populace. Institutions of higher education would be diverse in every way. Just imagine the groundbreaking ideas that would be created by such a cohort of scholars, free to explore and create!
 
@@ -26,19 +53,19 @@ Correction (4/12/2017): The original post inaccurately described Darrel Falk as 
 [2] https://en.wikipedia.org/wiki/University  
 [3] https://en.wikipedia.org/wiki/Authentica_habita
 
----
+***
 
 This post was migrated from my previous site, so I decided to include all old comments below:
 
 **Darrel Falk**  
-_4/12/2017 01:20:20 pm_
+*4/12/2017 01:20:20 pm*
 
 >Dear Mykhaylo,  
 >Thanks very much for this fine article. I was pleased and honored to be an invited guest on your campus and am delighted that you considered the session helpful. I would add one thing, however. I respect the fact that Andrews University is an institution of the Seventh Day Adventist Church, which means that it serves a community of individuals who understand Scripture in a particular way. I have tremendous respect for the Adventists that I know and it is important that the central distinctives be maintained. The university's leaders walk a very fine line between faithfulness to the central distinctions of the community and the spirit of open inquiry that you describe so articulately. What I personally hope is that as a Christ-centered university, that the open inquiry of which you speak will be framed within a framework that enables the SDA community to continue to retain the wonderful distinctives that have enabled it to serve God and the world so effectively. Remember, that most of the major private secular universities in America are former Christian universities, which in the interest of openness, let go of their Christian distinctiveness  
-In Christ, Darrel
+>In Christ, Darrel
 
 **Mykhaylo Malakhov**  
-_4/14/2017 09:50:52 pm_
+*4/14/2017 09:50:52 pm*
 
 >Dear Dr. Falk,  
 >Thank you for your thoughtful response. When writing this article I never envisioned that you would read it, but I am very glad you found it insightful. I completely agree with you, and must admit that it would have been beneficial to discuss the balance between promoting open inquiry and maintaining distinctions in the article. Although I specifically mentioned Andrews University in several instances, I wrote the article for the academic community in general. I wanted my claim to resonate with all educational institutions, not only those with a distinctive set of beliefs like Andrews University. I share your hope that Seventh-day Adventist universities and others with a distinctive and unique nature will be able to frame open inquiry within the context of their mission to God and the world. This is certainly a difficult challenge that needs to be explored more deeply, and I really appreciate that you brought it up.  

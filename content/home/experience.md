@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
   Sponsoring organization: [Air Force Research Laboratory](https://www.wpafb.af.mil/afrl/)  
   Academic mentor: [An Do](https://www.researchgate.net/profile/An_Do4)  
-  Industry mentors: [Robert S. Martin](https://orcid.org/0000-0003-1727-9557) and [Daniel Q. Eckhardt](https://orcid.org/0000-0002-8172-0899)
+  Sponsoring mentors: [Robert S. Martin](https://orcid.org/0000-0003-1727-9557) and [Daniel Q. Eckhardt](https://orcid.org/0000-0002-8172-0899)
   """
 
 [[experience]]

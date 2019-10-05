@@ -1,14 +1,41 @@
-+++
-title = "The Influence of Low Social Class on Governmental Involvement"
-date = 2019-01-09T00:00:00
-lastmod = 2019-01-09T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "college essays", "history"]
-+++
+---
+title: "The Influence of Low Social Class on Governmental Involvement"
+subtitle: ""
+summary: ""
+authors:
+- admin
+tags:
+- Andrews University
+- college essays
+- history
+categories: []
+date: "2019-01-09T00:00:00"
+lastmod: "2019-01-09T00:00:00"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 Frankly, I have little to say in introducing this essay. Among all of the essays that I wrote for Honors Western Heritage at Andrews University, this one stands out as being the only one whose thesis I could not recall from memory this year. However, I hope that it can still prove edifying, if not for its content, then at least as an example of first-semester college writing. Continuing the tradition of this blog series, I am posting this essay exactly as I submitted it for the assignment, without any further revisions.
 
----
+***
 
 ## The Influence of Low Social Class on Governmental Involvement
 
@@ -28,13 +55,13 @@ The restrictions placed upon lower classes by the ruling elites can easily be un
 
 Although Liu Bang was a peasant himself, power in his government "was concentrated at the imperial court" which was naturally filled by members of a special class (74). His successors did institute the civil service examination in a nominal attempt to select "government officials on the basis of merit rather than birth" (75), but the candidates accepted into the academy to prepare for those examinations "were almost all from aristocratic or other wealthy families, and the bureaucracy itself was still dominated by the traditional hereditary elites" (75). Liu Bang was a peasant emperor, but his example shows that even though low-class individuals were able to influence government by overthrowing it, once a new governmental structure was instituted those former peasants who secured positions of power did all they could to keep it to themselves, creating a new aristocracy. Although the Confucian philosophers who advised Han rulers stated that "the people constitute in every way the mandate" (qtd. in Duiker and Spielvogel 75), this was interpreted to mean that rulers should please the people without giving them the opportunity to be involved.
 
-The Israelites were also lower-class individuals who rebelled against their government, although in their case they separated from the Egyptians instead of completely overthrowing them. Even though the historicity of their exodus from Egypt is debated by historians (Duiker and Spielvogel 23), the Bible is known to be an ancient book and can at least serve as an example of the ideas of peoples living in Canaan in the ancient time period. According to the Bible, the Israelite tribes in Egypt were slaves, forced to work long hours under inhumane conditions (_Andrews Study Bible_, Exod. 1.14). They were certainly the lowest class in Egyptian society, and could not even dream of somehow becoming involved in the functioning of Egyptian government. The only way for them to have a voice in how they were governed was to break free from the government of Egypt and establish their own government. This is exactly what they accomplished. Pharaoh stripped the Israelites of their rights in an attempt to control them (Exod. 1.9-11), but ended up directly contributing to their desire to revolt and govern themselves. Pharaoh prevented those low-class slaves from participating in government, but the limitations placed upon them were incapable of inhibiting their ability to start their own system of government. The story of the Israelites demonstrates that ancient peoples in Canaan likewise thought that peasant revolutions are possible and can be undertaken. Furthermore, once the Israelites separated from Egypt they started a government controlled by strong, emperor-like leaders, beginning with Moses and eventually developing into an official monarchy. Just as in classical China, the formerly low-class individuals who started the new government became the elite ruling class, recreating the same system they had rebelled against.
+The Israelites were also lower-class individuals who rebelled against their government, although in their case they separated from the Egyptians instead of completely overthrowing them. Even though the historicity of their exodus from Egypt is debated by historians (Duiker and Spielvogel 23), the Bible is known to be an ancient book and can at least serve as an example of the ideas of peoples living in Canaan in the ancient time period. According to the Bible, the Israelite tribes in Egypt were slaves, forced to work long hours under inhumane conditions (*Andrews Study Bible*, Exod. 1.14). They were certainly the lowest class in Egyptian society, and could not even dream of somehow becoming involved in the functioning of Egyptian government. The only way for them to have a voice in how they were governed was to break free from the government of Egypt and establish their own government. This is exactly what they accomplished. Pharaoh stripped the Israelites of their rights in an attempt to control them (Exod. 1.9-11), but ended up directly contributing to their desire to revolt and govern themselves. Pharaoh prevented those low-class slaves from participating in government, but the limitations placed upon them were incapable of inhibiting their ability to start their own system of government. The story of the Israelites demonstrates that ancient peoples in Canaan likewise thought that peasant revolutions are possible and can be undertaken. Furthermore, once the Israelites separated from Egypt they started a government controlled by strong, emperor-like leaders, beginning with Moses and eventually developing into an official monarchy. Just as in classical China, the formerly low-class individuals who started the new government became the elite ruling class, recreating the same system they had rebelled against.
 
 Throughout the ancient and classical time periods, the histories of diverse civilizations around the world show that the ruling elites always attempted to retain their power over government by obstructing lower-class individuals' access to political office and other ways of becoming involved in government. The same examples also show that the lower classes did not always tolerate their lack of power to govern themselves and work with the existing government, and this prompted the lower classes to revolt and establish their own government. Yet when this occurred the formerly low-class individuals who managed to gain power again established aristocracies, repeating the cycle of marginalization, discontent, and revolt---a cycle that perhaps continues to this day.
 
 ### Works Cited
 
-1. Bloom, Allan, translator. _The Republic_. By Plato, 2nd ed., Basic Books, 1991.
+1. Bloom, Allan, translator. *The Republic*. By Plato, 2nd ed., Basic Books, 1991.
 2. Carpenter, Stephanie. "The Code of Hammurabi." Class Notes, Western Heritage 105, 29 Aug. 2016, Andrews University, Berrien Springs, MI.
-3. Duiker, William J., and Jackson J. Spielvogel. _The Essential World History_. 8th ed., Cengage Learning, 2017.
-4. _The Andrews Study Bible_. New King James Version, General editor, Jon L. Dybdahl, Andrews UP, 2010.
+3. Duiker, William J., and Jackson J. Spielvogel. *The Essential World History*. 8th ed., Cengage Learning, 2017.
+4. *The Andrews Study Bible*. New King James Version, General editor, Jon L. Dybdahl, Andrews UP, 2010.

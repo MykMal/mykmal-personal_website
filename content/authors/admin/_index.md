@@ -16,7 +16,7 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Andrews University
-  url: "https://www.andrews.edu"
+  url: https://www.andrews.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: I play around with mathematics, computer science, biology, literature, and whatever else happens to capture my interest.
@@ -43,7 +43,7 @@ education:
 social:
 - icon: orcid
   icon_pack: ai
-  link: 'https://orcid.org/0000-0002-6856-3913'
+  link: https://orcid.org/0000-0002-6856-3913
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl

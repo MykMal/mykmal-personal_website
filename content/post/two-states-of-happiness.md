@@ -1,7 +1,7 @@
 ---
-title: 'The Two States of Happiness: A Practical Analysis of Virtue Systems'
-subtitle: ''
-summary: ''
+title: "The Two States of Happiness: A Practical Analysis of Virtue Systems"
+subtitle: ""
+summary: ""
 authors:
 - admin
 tags:
@@ -9,8 +9,8 @@ tags:
 - college essays
 - religion
 categories: []
-date: "2018-09-02T00:00:00Z"
-lastmod: "2018-09-02T00:00:00Z"
+date: "2018-09-02T00:00:00"
+lastmod: "2018-09-02T00:00:00"
 featured: false
 draft: false
 
@@ -20,7 +20,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -39,11 +39,11 @@ This is the third installment of my current blog series where I share essays tha
 
 As always, I welcome your thoughts in the comments. Enjoy!
 
----
+***
 
 ## The Two States of Happiness: A Practical Analysis of Virtue Systems
 
-It is exceedingly difficult, or rather completely impossible, to find a topic more ubiquitous and pertinent to all aspects of humanity from the dawn of civilization to the tumultuous perturbations of modern society than the concept of happiness. Perhaps as important as the concept itself is the path to reaching it, if it exists at all. All, from great philosophers to humble peasants, have pondered this, coming up with solutions and theories far more numerous than Ovid's _dramatis personæ_, rivaling only the proverbial grains of sand in Abraham's vision. Yet somehow all early thinkers could agree that such a path must be inextricably tied to virtue, to the idea that there exists a standard one must follow if he or she intends to reach that blissful and elusive state. In examining several major pre-Renaissance systems of belief created by our forefathers, we can classify them into two general groups: those uplifting virtue as a notion only perceivable individually and those focusing on virtue in the context of community. Only one major religion or school of thought effectively combines these two aspects of virtue, creating a framework capable of offering its adherents holistic happiness. This faith is Christianity.
+It is exceedingly difficult, or rather completely impossible, to find a topic more ubiquitous and pertinent to all aspects of humanity from the dawn of civilization to the tumultuous perturbations of modern society than the concept of happiness. Perhaps as important as the concept itself is the path to reaching it, if it exists at all. All, from great philosophers to humble peasants, have pondered this, coming up with solutions and theories far more numerous than Ovid's *dramatis personæ*, rivaling only the proverbial grains of sand in Abraham's vision. Yet somehow all early thinkers could agree that such a path must be inextricably tied to virtue, to the idea that there exists a standard one must follow if he or she intends to reach that blissful and elusive state. In examining several major pre-Renaissance systems of belief created by our forefathers, we can classify them into two general groups: those uplifting virtue as a notion only perceivable individually and those focusing on virtue in the context of community. Only one major religion or school of thought effectively combines these two aspects of virtue, creating a framework capable of offering its adherents holistic happiness. This faith is Christianity.
 
 Since worldview is a purely subjective matter, it is impossible to speak of the rightness or wrongness of a certain religion or path towards happiness without first listing a whole set of assumptions on which different faiths are to be judged. No such assumptions are made herein, except for the one that the most useful worldview is the best. Rather than taking on a pretenseful air of objectivity while arguing for correctness or incorrectness, this essay will solely concern itself with the psychological, objective, merits of virtue systems. Since happiness or flourishing in this life is generally agreed to be a mental state, an analysis along these lines will be very fitting and will avoid the obstacles that will be inevitably encountered while trying to maintain objectivity in arguments regarding inherently subjective matters.
 
@@ -53,15 +53,15 @@ Aristotelian philosophy and Buddhism reach the same conclusion, even though both
 
 Not all faiths or schools of thought, however, urge their adherents to find an individual balance or inner virtuousness. Confucianism and its close neighbor Neo-Confucianism instead present virtue, and thus the path towards happiness and flourishing, as a community endeavor. In Confucianism, a state of flourishing is achieved by following one's Dao, one's purpose in the universe. A vital aspect of the Dao "is the concept of duty." Precisely, to follow one's Dao means to fill one's proper place in the family and the community at large (Duiker and Spielvogel 65). Although Neo-Confucianism adopted "the metaphysical speculations of Buddhism and Daoism," it still retained the definition of virtue present in Confucianism, namely, that virtue involves fulfilling one's roles in the broader society (269). In both philosophies, only when the family and community achieve the greatest good will each individual achieve his or her own greatest good. Confucianism and Neo-Confucianism cater to the gregarious aspect of humankind, yet ignore people's needs for personal and inner fulfillment. Such virtue systems cannot be the best either because every person has a need to understand himself or herself apart from the identity created by participation in social structures.
 
-If both those systems of virtue that focus on the individual and those that focus on the community are incapable of fulfilling a person's psychological needs, it now remains to examine how Judaism and Christianity address this issue, and whether their solution is any better than the ones discussed so far. According to Augustine, "the authentic happy life" is "grounded in you [God] and caused by you" (Chadwick 199). Thomas Aquinas likewise put God at the center of humanity's quest for happiness. He wrote that "although man has a natural inclination toward his ultimate end," the journey is not complete without God (qtd. in Placher 131). How does a pursuit of God relate to virtue? In Judaism, keeping the commandments was the way to achieve well-being (_Andrews Study Bible_, Deut. 4.40). In the context of this assumption, Jesus explained that the commandments are summarized by loving God "with all your heart" and loving "your neighbor as yourself" (Mark 12.30-31). His Jewish hearers acknowledged that this is correct in their tradition as well (12.32-33). In both traditions, loving God is an individual responsibility; no one can force another to love God, except perhaps God himself. Loving one's neighbor, on the other hand, addresses people's relations with the people around them and the community at large. Thus, Judaism as expressed in the Old Testament and its fulfillment in Christianity confront people's psychological need for an inner, individual fulfillment as well as their yearning for fellowship and identity in a larger community. This is achieved through a relationship with God and in cooperation with him. Christianity cannot be called an amalgamation, yet in its striking originality it succeeds at creating a system of virtue that holistically addresses both needs, and combining the best of both worlds it offers its adherents a psychologically complete path towards a state of happiness and flourishing.
+If both those systems of virtue that focus on the individual and those that focus on the community are incapable of fulfilling a person's psychological needs, it now remains to examine how Judaism and Christianity address this issue, and whether their solution is any better than the ones discussed so far. According to Augustine, "the authentic happy life" is "grounded in you [God] and caused by you" (Chadwick 199). Thomas Aquinas likewise put God at the center of humanity's quest for happiness. He wrote that "although man has a natural inclination toward his ultimate end," the journey is not complete without God (qtd. in Placher 131). How does a pursuit of God relate to virtue? In Judaism, keeping the commandments was the way to achieve well-being (*Andrews Study Bible*, Deut. 4.40). In the context of this assumption, Jesus explained that the commandments are summarized by loving God "with all your heart" and loving "your neighbor as yourself" (Mark 12.30-31). His Jewish hearers acknowledged that this is correct in their tradition as well (12.32-33). In both traditions, loving God is an individual responsibility; no one can force another to love God, except perhaps God himself. Loving one's neighbor, on the other hand, addresses people's relations with the people around them and the community at large. Thus, Judaism as expressed in the Old Testament and its fulfillment in Christianity confront people's psychological need for an inner, individual fulfillment as well as their yearning for fellowship and identity in a larger community. This is achieved through a relationship with God and in cooperation with him. Christianity cannot be called an amalgamation, yet in its striking originality it succeeds at creating a system of virtue that holistically addresses both needs, and combining the best of both worlds it offers its adherents a psychologically complete path towards a state of happiness and flourishing.
 
 Having explored these various constructions of virtue as they relate to the concept of human flourishing, it would be utterly naïve to posit that the combination of individual and communal virtue is sufficient for creating a belief system capable of bringing happiness to its followers. Although this combination is necessary, necessity and sufficiency do not always come hand-in-hand. Being the complex beings that we are, a whole copiousness of factors is required to meet our complex psychological, intellectual, and emotional needs. Many will also ask whether these needs can be fulfilled by humankind alone, or whether a relationship with God is indispensable. Furthermore, if an absolutely true worldview does exist, this psychological examination of virtue and happiness based on usefulness will dissolve into, at the least, a somewhat valuable treatise providing unneeded evidence in support of that worldview or, at the most, an utter waste of time, a dangerous byproduct of an overly curious mind. Wherein lies the truth? Perhaps reason will never know.
 
 ### Works Cited
 
-1. Bloom, Allan, translator. _The Republic_. By Plato, 2nd ed., Basic Books, 1991.
-2. Chadwick, Henry, translator. _Confessions_. By Augustine, Oxford UP, 2008.
-3. Duiker, William J., and Jackson J. Spielvogel. _The Essential World History_. 8th ed., Cengage Learning, 2017.
-4. Placher, William C., and Derek R. Nelson. _A History of Christian Theology: An Introduction_. 2nd ed., Westminster John Knox Press, 2013.
+1. Bloom, Allan, translator. *The Republic*. By Plato, 2nd ed., Basic Books, 1991.
+2. Chadwick, Henry, translator. *Confessions*. By Augustine, Oxford UP, 2008.
+3. Duiker, William J., and Jackson J. Spielvogel. *The Essential World History*. 8th ed., Cengage Learning, 2017.
+4. Placher, William C., and Derek R. Nelson. *A History of Christian Theology: An Introduction*. 2nd ed., Westminster John Knox Press, 2013.
 5. Sciarabba, Davide. "Aristotle." Class Notes, Western Heritage 105, 22 Sept. 2016, Andrews University, Berrien Springs, MI.
-6. _The Andrews Study Bible_. New King James Version, General editor, Jon L. Dybdahl, Andrews UP, 2010.
+6. *The Andrews Study Bible*. New King James Version, General editor, Jon L. Dybdahl, Andrews UP, 2010.

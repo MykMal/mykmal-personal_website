@@ -163,7 +163,7 @@ This post was migrated from my previous site, so I decided to include all old co
 >
 >Where did I say that humanism is incompatible with theism? On the contrary, I explained how my existentialist framework provides a foundation for theism. I completely agree that in order to approach God we need to start somewhere. In existentialist flavors of Christianity that starting point is simply choice, which Kierkegaard called the leap of faith. In my worldview this leap of faith takes on a creative aspect, but the idea is similar. And as you explained, a worldview with a universal human nature can also provide a foundation for theism, albeit in a somewhat different way.
 
-**Eric 'Siggy' Scott**
+**Eric 'Siggy' Scott**  
 *6/9/2018 01:20:26 pm*
 
 >Mykhaylo,

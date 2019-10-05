@@ -1,10 +1,37 @@
-+++
-title = "Violence or Humility: On Transient Dynamics in the Self/Other Binary"
-date = 2019-02-12T00:00:00
-lastmod = 2019-02-12T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "college essays", "literature"]
-+++
+---
+title: 'Violence or Humility: On Transient Dynamics in the Self/Other Binary'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- Andrews University
+- college essays
+- literature
+categories: []
+date: "2019-02-12T00:00:00Z"
+lastmod: "2019-02-12T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 The concept of juxtaposition must be among the most fascinating in existence. At least for me, the coming together of contrasting or antithetical notions always ignites a certain desire to explore and understand how each sheds light on itself by illuminating the other. Colorful juxtapositions exist in every branch of human endeavor, not the least of which is literature.
 

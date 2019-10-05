@@ -1,10 +1,41 @@
-+++
-title = "I Don't Care: Existential Sovereignty as a Foundation for Fluid Christianity"
-date = 2018-04-28T00:00:00
-lastmod = 2018-04-28T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "college essays", "history", "literature", "mathematics", "religion", "science"]
-+++
+---
+title: 'I Don't Care: Existential Sovereignty as a Foundation for Fluid Christianity'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- Andrews University
+- college essays
+- history
+- literature
+- mathematics
+- religion
+- science
+categories: []
+date: "2018-04-28T00:00:00Z"
+lastmod: "2018-04-28T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 My original intent was to post my worldview essay in six months or so, once the traumatic experience of writing it fades into the dimmer recesses of my memory. However, the people have spoken, and due to popular demand I am taking the risk of posting the essay now.
 

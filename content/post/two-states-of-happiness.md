@@ -1,10 +1,37 @@
-+++
-title = "The Two States of Happiness: A Practical Analysis of Virtue Systems"
-date = 2018-09-02T00:00:00
-lastmod = 2018-09-02T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "college essays", "religion"]
-+++
+---
+title: 'The Two States of Happiness: A Practical Analysis of Virtue Systems'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- Andrews University
+- college essays
+- religion
+categories: []
+date: "2018-09-02T00:00:00Z"
+lastmod: "2018-09-02T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 As the first week of my junior year of college comes to a close, I could not resist the temptation to procrastinate on abstract algebra homework in order to dig up fond (and often cringeworthy) memories of my first semester in college. Hence, I am posting another essay for your enjoyment.
 

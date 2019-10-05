@@ -1,10 +1,37 @@
-+++
-title = "You Are My Neighbor: Toward a Distinctly Christian Immigration Ethic"
-date = 2019-08-11T00:00:00
-lastmod = 2019-08-11T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "college essays", "religion"]
-+++
+---
+title: 'You Are My Neighbor: Toward a Distinctly Christian Immigration Ethic'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- Andrews University
+- college essays
+- religion
+categories: []
+date: "2019-08-11T00:00:00Z"
+lastmod: "2019-08-11T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 I am very proud to be an immigrant. When my parents and I moved from Ukraine to California we did not know a word of English, but we brought with us a rich cultural heritage and the tenacity to, in the words of Lin-Manuel Miranda, "get the job done." While my family was fortunate to have a legal path into the United States, many others currently live under a constant fear of ICE while buffeted about by systemic, blatant xenophobia and racism. One might think that the inclusive message of love conveyed by the Gospel of Jesus Christ would lead all Christians to embrace immigrants, but churches are comprised of people, and both religious and non-religious people alike tend to imbibe the often toxic national conversation on immigration. I am sad to say that in several churches that I had known as "home," simply mentioning sympathy for undocumented immigrants draws criticism for being a "godless liberal" who has succumbed to the "propaganda" promoted by left-wing media. Is there a better alternative for conversations on immigration within the Christian church?
 

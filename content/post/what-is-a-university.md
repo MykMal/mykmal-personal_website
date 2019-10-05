@@ -1,10 +1,37 @@
-+++
-title = "What is a University?"
-date = 2017-03-19T00:00:00
-lastmod = 2017-04-12T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "religion", "science"]
-+++
+---
+title: 'What is a University?'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- Andrews University
+- religion
+- science
+categories: []
+date: "2017-03-19T00:00:00Z"
+lastmod: "2017-04-12T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 ​Last semester I had the privilege of attending the 11th Annual Andrews Autumn Conference on Religion and Science on the campus of Andrews University in Berrien Springs, Michigan. It was a very intellectually stimulating experience, and I greatly enjoyed participating in deep theological and scientific discussions with other scholars who are also dedicated to the pursuit of truth. The conference was titled "Beyond the Creation Wars," and the presentations revolved around the question of origins in the context of the wider question of how Christian love should relate to truth. Should truth or love take precedence? How should we relate to Christians who believe differently than we do? What are the positions in the debate over creation and evolution, and does it even matter?
 

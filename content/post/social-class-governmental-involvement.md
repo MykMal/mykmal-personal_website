@@ -1,10 +1,37 @@
-+++
-title = "The Influence of Low Social Class on Governmental Involvement"
-date = 2019-01-09T00:00:00
-lastmod = 2019-01-09T00:00:00
-authors = ["admin"]
-tags = ["Andrews University", "college essays", "history"]
-+++
+---
+title: 'The Influence of Low Social Class on Governmental Involvement'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- Andrews University
+- college essays
+- history
+categories: []
+date: "2019-01-09T00:00:00Z"
+lastmod: "2019-01-09T00:00:00Z"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 Frankly, I have little to say in introducing this essay. Among all of the essays that I wrote for Honors Western Heritage at Andrews University, this one stands out as being the only one whose thesis I could not recall from memory this year. However, I hope that it can still prove edifying, if not for its content, then at least as an example of first-semester college writing. Continuing the tradition of this blog series, I am posting this essay exactly as I submitted it for the assignment, without any further revisions.
 

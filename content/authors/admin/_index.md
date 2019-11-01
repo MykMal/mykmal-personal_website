@@ -79,4 +79,4 @@ I am a fourth-year undergraduate student at Andrews University, majoring in math
 
 I plan to earn a PhD with the goal of pursuing a career in academia. Overall, my dream is to employ theoretical approaches to understand the natural world while engaging underrepresented groups in scientific research.
 
-For additional details see my [short résumé](files/Mykhaylo-Malakhov-resume.pdf) or [complete curriculum vita](files/Mykhaylo-Malakhov-cv.pdf).
+For additional details see my [short résumé](files/Mykhaylo-Malakhov-resume.pdf) or [comprehensive curriculum vitae](files/Mykhaylo-Malakhov-cv.pdf).

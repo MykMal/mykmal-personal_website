@@ -1,7 +1,7 @@
 ---
 
 # Display name
-name: Mykhaylo Mykolaiovich Malakhov
+title: Mykhaylo Mykolaiovich Malakhov
 
 # Username (this should match the folder name)
 authors:

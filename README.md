@@ -1,6 +1,6 @@
 # Mykhaylo's Personal Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c641232-5c0f-42e8-a6d7-ac5a2b6d6fa9/deploy-status)](https://app.netlify.com/sites/determined-hermann-b8609f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c641232-5c0f-42e8-a6d7-ac5a2b6d6fa9/deploy-status)](https://app.netlify.com/sites/mykmal/deploys)
 
 This is the repository for my personal website/blog, which you should visit at <https://mykmal.xyz>.
 

@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -34,9 +34,6 @@ education:
   - course: B.S. in Mathematics
     institution: Andrews University
     year: 2020
-  - course: Study Abroad
-    institution: Budapest Semesters in Mathematics
-    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -78,7 +75,7 @@ user_groups:
 
 ---
 
-I am a statistician, epidemiologist, and machine learning engineer. Currently I find myself in the Division of Biostatistics at the University of Minnesota School of Public Health, where I am a first-year Ph.D. student. My passion lies in developing data science methods to solve complex problems in biomedical research and public health. Previously I studied mathematics at Andrews University, spending my free time on endeavors such as building a solar energy system in Madagascar and winning the Goldwater Scholarship. When away from my office I enjoy hiking the great outdoors, playing video games, and spending time with my wonderful partner.
+I am a statistician, epidemiologist, and machine learning engineer. Currently I find myself in the Division of Biostatistics at the University of Minnesota School of Public Health, where I am a first-year doctoral student. My passion lies in developing data science methods to solve complex problems in biomedical research and public health. Previously I studied mathematics at Andrews University, augmenting my experience with endeavors such as building a solar energy system in Madagascar and doing "maths" in Budapest. When away from my office I enjoy hiking the great outdoors, playing video games, and spending time with my wonderful partner.
 
 I plan to pursue a research career within the medical or healthcare industries. Right now I am open to internship offers!
 

@@ -36,7 +36,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0", "0", "0", "0"]
 
 [advanced]
  # Custom CSS.
@@ -47,5 +47,6 @@ subtitle = ""
 
 +++
 
-### "I can't understand why people are frightened of new ideas. I'm frightened of the old ones."  
+### "I can't understand why people are frightened of new ideas.
+### I'm frightened of the old ones."  
 ### --- John Cage

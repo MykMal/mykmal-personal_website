@@ -21,8 +21,8 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
 
   # Background image.
   image = "Quote_Background.jpg"  # Name of image in `static/img/`.
@@ -47,5 +47,5 @@ subtitle = ""
 
 +++
 
-### "It is impossible to be a mathematician without being a poet in soul."  
-### --- Sofia Kovalevskaya
+### "I can't understand why people are frightened of new ideas. I'm frightened of the old ones."  
+### --- John Cage

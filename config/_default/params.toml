@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The personal website of Mykhaylo M. Malakhov: a mathematician, ecologist, and data scientist at Andrews University."
+description = "The personal website of Mykhaylo M. Malakhov: a statistician, epidemiologist, and machine learning engineer at the University of Minnesota."
 
 ############################
 ## Site Features
@@ -88,16 +88,16 @@ show_related = {docs = false, page = false, post = true, project = true, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mykhaylo@andrews.edu"
+email = "mmalakhov@outlook.com"
 phone = "530 840 62 45"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Haughey Hall", city = "Andrews University", region = "MI", postcode = "49104", country = "United States", country_code = "US"}
+address = {street = "420 Delaware St. SE", city = "Minneapolis", region = "MN", postcode = "55455", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.9625", longitude = "-86.3555"}
+coordinates = {latitude = "44.9723", longitude = "-93.2334"}
 
 # Directions for visitors to locate you.
 directions = ""

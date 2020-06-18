@@ -11,24 +11,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Andrews University
-  url: https://www.andrews.edu
+- name: University of Minnesota
+  url: https://twin-cities.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I play around with mathematics, computer science, biology, literature, and whatever else happens to capture my interest.
+bio: Statistician, epidemiologist, and machine learning engineer. I develop data science methods to solve complex problems in biomedical research and public health.
 
 interests:
-- Mathematical Ecology
-- Infectious Diseases
-- Nonlinear Dynamics
+- Epidemiology
+- Genomics
+- Machine Learning
 
 education:
   courses:
-  - course: B.S. in Mathematics (Honors)
+  - course: Ph.D. in Biostatistics
+    institution: University of Minnesota
+    year: expected 2025
+  - course: B.S. in Mathematics
     institution: Andrews University
     year: 2020
   - course: Study Abroad
@@ -75,8 +78,8 @@ user_groups:
 
 ---
 
-I am a fourth-year undergraduate student at Andrews University, majoring in mathematics and minoring in computing. My research interests span the intersection of mathematics, ecology, and data science. In particular, I synthesize analytical and computational approaches to study complex systems such as emerging infectious diseases, climate change, and chemical reaction networks. People often like to know that I am a Goldwater Scholar and a J. N. Andrews Honors Scholar. I am also passionate about volunteering and lead out in my university's Pi Mu Epsilon chapter, Engineers Without Borders chapter, and math/physics club. In my free time (when I happen to find some!) I enjoy reading classic literature, hiking the great outdoors, playing video games, and gardening.
+I am a statistician, epidemiologist, and machine learning engineer. Currently I find myself in the Division of Biostatistics at the University of Minnesota School of Public Health, where I am a first-year Ph.D. student. My passion lies in developing data science methods to solve complex problems in biomedical research and public health. Previously I studied mathematics at Andrews University, spending my free time on endeavors such as building a solar energy system in Madagascar and winning the Goldwater Scholarship. When away from my office I enjoy hiking the great outdoors, playing video games, and spending time with my wonderful partner.
 
-I plan to earn a PhD with the goal of pursuing a career in academia. Overall, my dream is to employ theoretical approaches to understand the natural world while engaging underrepresented groups in scientific research.
+I plan to pursue a research career within the medical or healthcare industries. Right now I am open to internship offers!
 
 For additional details see my [short résumé](files/Mykhaylo-Malakhov-resume.pdf) or [comprehensive curriculum vitae](files/Mykhaylo-Malakhov-cv.pdf).

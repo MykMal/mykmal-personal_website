@@ -79,4 +79,4 @@ I am a statistician, epidemiologist, and machine learning engineer. Currently I 
 
 I plan to pursue a research career within the medical or healthcare industries. Right now I am open to internship offers!
 
-For additional details see my {{% staticref "files/Mykhaylo-Malakhov-resume.pdf" "newtab" %}}short résumé{{% /staticref %}} or {{% staticref "files/Mykhaylo-Malakhov-cv.pdf" "newtab" %}}comprehensive curriculum vitae{{% /staticref %}}.
+For additional details please see my {{% staticref "files/Mykhaylo-Malakhov-resume.pdf" "newtab" %}}résumé{{% /staticref %}}. Pronouns: he/him/his.

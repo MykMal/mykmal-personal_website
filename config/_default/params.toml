@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The personal website of Mykhaylo M. Malakhov: a statistician, epidemiologist, and machine learning engineer at the University of Minnesota."
+description = "The personal website of Mykhaylo M. Malakhov: a statistician, genomics researcher, and machine learning engineer at the University of Minnesota."
 
 ############################
 ## Site Features

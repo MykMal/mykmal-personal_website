@@ -19,10 +19,10 @@ organizations:
   url: https://twin-cities.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Statistician, epidemiologist, and machine learning engineer. I develop data science methods to solve complex problems in biomedical research and public health.
+bio: Statistician, genomics researcher, and machine learning engineer. I develop data science methods to solve complex problems in biomedical research and public health.
 
 interests:
-- Epidemiology
+- Statistics
 - Genomics
 - Machine Learning
 
@@ -75,7 +75,7 @@ user_groups:
 
 ---
 
-I am a statistician, epidemiologist, and machine learning engineer. Currently I find myself in the Division of Biostatistics at the University of Minnesota School of Public Health, where I am a first-year doctoral student. My passion lies in developing data science methods to solve complex problems in biomedical research and public health. Previously I studied mathematics at Andrews University, augmenting my experience with endeavors such as building a solar energy system in Madagascar and doing "maths" in Budapest. When away from my office I enjoy campaigning for progressive issues, playing video games, and spending time with my wonderful partner.
+I am a statistician, genomics researcher, and machine learning engineer. My passion lies in developing data science methods to solve complex problems in biomedical research and public health. Currently I find myself in the Division of Biostatistics at the University of Minnesota School of Public Health, where I am a first-year doctoral student working with [Wei Pan](http://www.biostat.umn.edu/~weip/) under a T32 fellowship from the National Institutes of Health. Previously I studied mathematics at Andrews University, augmenting my experience with endeavors such as building a solar energy system in Madagascar and doing "maths" in Budapest. When away from my office I enjoy campaigning for progressive issues, playing video games, and spending time with my wonderful partner.
 
 I plan to pursue a research career within the medical or healthcare industries. Right now I am open to internship offers!
 
